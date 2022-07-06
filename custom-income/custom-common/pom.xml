@@ -25,7 +25,7 @@
     <spring.version>4.3.7.RELEASE</spring.version>
     <ehcache.version>3.3.1</ehcache.version>
     <shiro.version>1.4.0</shiro.version>
-    <jasypt.version>1.8</jasypt.version>
+    <jasypt.version>1.9.2</jasypt.version>
   </properties>
 
   <dependencies>
